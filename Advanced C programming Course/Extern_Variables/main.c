@@ -1,3 +1,10 @@
+/* extern variables
+*
+*  Created by Arturo de los Rios on 01/11/21.
+*
+* C code of how extern variables are used.
+*/
+
 #include <stdio.h>
 
 int i = 5; //Global variable initialization
