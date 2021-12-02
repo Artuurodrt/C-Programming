@@ -11,7 +11,6 @@ int main (void)
     printf("%i\n",i);
     foo(); //Call to foo() function
     printf("%i\n",i);
-
     count = 5; //Count initialization
     write_extern();// call to extern function
 
