@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639705865 source:c:\users\arturo\documents\c-programming\advanced c programming course\variable_length_arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
