@@ -51,3 +51,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 Advanced C programming Course/Restrict/Restrict.layout
+Advanced C programming Course/setjmp_longjmp/setjmp_longjmp.layout
