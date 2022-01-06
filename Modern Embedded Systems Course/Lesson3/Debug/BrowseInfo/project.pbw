@@ -1,0 +1,44 @@
+[
+  {
+    "ID": "c:@count",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "count",
+    "location": {
+      "column": "6",
+      "line": "9",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson3\\main.c"
+    },
+    "name": "count",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "11",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson3\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@233@F@main@p_int",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "p_int",
+    "location": {
+      "column": "10",
+      "line": "14",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson3\\main.c"
+    },
+    "name": "p_int",
+    "origin": "project_file",
+    "scope": null
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "ID": "c:main.c@116@macro@RCGCGPIO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGCGPIO",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson4\\main.c"
+    },
+    "name": "RCGCGPIO",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@178@macro@GPIODIR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODIR",
+    "location": {
+      "column": "9",
+      "line": "10",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson4\\main.c"
+    },
+    "name": "GPIODIR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@239@macro@GPIODEN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODEN",
+    "location": {
+      "column": "9",
+      "line": "12",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson4\\main.c"
+    },
+    "name": "GPIODEN",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@300@macro@GPIODATA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODATA",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson4\\main.c"
+    },
+    "name": "GPIODATA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delay",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void delay(void)",
+    "location": {
+      "column": "6",
+      "line": "16",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson4\\main.c"
+    },
+    "name": "delay",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "18",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson4\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delay",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void delay(void)",
+    "location": {
+      "column": "8",
+      "line": "40",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson4\\main.c"
+    },
+    "name": "delay",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@832@F@delay@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "7",
+      "line": "42",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson4\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  }
+]
