@@ -1,0 +1,100 @@
+[
+  {
+    "ID": "c:main.c@116@macro@GPIOF_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOF_BASE",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson5\\main.c"
+    },
+    "name": "GPIOF_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@150@macro@RCGCGPIO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGCGPIO",
+    "location": {
+      "column": "9",
+      "line": "10",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson5\\main.c"
+    },
+    "name": "RCGCGPIO",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@212@macro@GPIODIR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODIR",
+    "location": {
+      "column": "9",
+      "line": "12",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson5\\main.c"
+    },
+    "name": "GPIODIR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@283@macro@GPIODEN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODEN",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson5\\main.c"
+    },
+    "name": "GPIODEN",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@354@macro@GPIODATA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODATA",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson5\\main.c"
+    },
+    "name": "GPIODATA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "19",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson5\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@770@F@main@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "16",
+      "line": "32",
+      "path": "C:\\Users\\Arturo\\Documents\\C-Programming\\Modern Embedded Systems Course\\Lesson5\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  }
+]
